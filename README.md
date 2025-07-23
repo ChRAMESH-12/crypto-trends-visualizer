@@ -20,10 +20,11 @@ An interactive Streamlit web app that explores the trends, predictions, and publ
 
 
 -> streamlit run app.py 
+check live project on this link https://crypto-trends-visualizer.streamlit.app
   
      🙋 Author
 
      **Ramesh Prasad**  
 Beginner Python & Web App Developer 🚀
-check live project on this link https://crypto-trends-visualizer.streamlit.app
+
  
